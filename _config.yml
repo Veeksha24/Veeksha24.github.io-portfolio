@@ -2,7 +2,7 @@
 title: Your Name
 description: Data Scientist | ML Engineer | Your Tagline
 url: https://yourusername.github.io
-baseurl: ""
+baseurl: "/portfolio"
 
 # Author Info
 author:
