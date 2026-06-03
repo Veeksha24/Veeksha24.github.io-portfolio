@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-# Your Name
+# Veeksha Lobo
 
 **Your Job Title** (e.g. Data Scientist / ML Engineer)
 
