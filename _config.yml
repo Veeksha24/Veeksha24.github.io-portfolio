@@ -3,6 +3,17 @@ title: Your Name
 description: Data Scientist | ML Engineer | Your Tagline
 url: https://yourusername.github.io
 baseurl: "/portfolio"
+nav_bar_title: Your Name
+
+navbar_fixed: true
+
+nav:
+  - title: about
+    url: /
+  - title: portfolio
+    url: /projects/
+  - title: publications
+    url: /publications/
 
 # Author Info
 author:
