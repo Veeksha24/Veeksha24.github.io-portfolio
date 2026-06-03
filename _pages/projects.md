@@ -2,6 +2,8 @@
 layout: page
 title: Portfolio
 permalink: /projects/
+nav: true
+nav_order: 2
 ---
 
 This portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning, and hobby purposes. It also contains my achievements, skills, and certificates.
