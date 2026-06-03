@@ -8,7 +8,7 @@ nav_order: 1
 
 # Veeksha Lobo
 
-**Your Job Title** (e.g. Data Scientist / ML Engineer)
+**Asprirng Data Scientist / ML Engineer**
 
 <!-- Add your profile photo to assets/img/ and update the filename below -->
 ![profile picture](assets/img/profile_picture.jpg)
