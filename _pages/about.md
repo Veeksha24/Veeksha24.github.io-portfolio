@@ -21,7 +21,7 @@ My name is [Your Name], and I am passionate about [your passion — e.g. buildin
 
 I am currently a [Your Role] at [Your Company](https://yourcompany.com), where I [brief description of what you do]. Previously, I [previous role/experience summary].
 
-Take a look at my [**portfolio**](/projects/) to see my projects, skills, certifications, and achievements.
+Take a look at my [**portfolio**](/Veeksha24.github.io-portfolio/projects/)to see my projects, skills, certifications, and achievements.
 
 Currently based in [Your City], I spend my free time [hobbies]. If you'd like to connect or chat, feel free to reach out!
 
