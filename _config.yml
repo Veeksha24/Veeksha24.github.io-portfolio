@@ -1,40 +1,19 @@
 # Site Settings
-title: Your Name
-description: Data Scientist | ML Engineer | Your Tagline
+title: Veeksha Lobo
+description: Data Scientist | ML Engineer
 url: https://veeksha24.github.io
 baseurl: "/Veeksha24.github.io-portfolio"
-nav_bar_title: Your Name
-
-navbar_fixed: true
-
-nav:
-  - title: about
-    url: /
-  - title: portfolio
-    url: /projects/
-  - title: publications
-    url: /publications/
 
 # Author Info
 author:
-  name: Your Name
+  name: Veeksha Lobo
   email: you@email.com
-  github: yourusername
+  github: Veeksha24
   linkedin: yourusername
-  twitter: yourusername   # optional, remove if unused
-  instagram: yourusername # optional
-
-# Navigation
-nav:
-  - title: about
-    url: /
-  - title: portfolio
-    url: /projects/
-  - title: publications
-    url: /publications/
 
 # Theme
 remote_theme: alshedivat/al-folio
+
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
@@ -43,10 +22,3 @@ plugins:
 # Build
 markdown: kramdown
 highlighter: rouge
-permalink: pretty
-
-# Footer
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
-  with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
